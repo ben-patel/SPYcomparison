@@ -1,3 +1,4 @@
 #!/bin/dash
+pip install matplotlib 2>/dev/null 1>/dev/null
 arg=$1
 ./build/example "$arg" | ./src/plot.py
