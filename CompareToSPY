@@ -1,0 +1,3 @@
+#!/bin/dash
+arg=$1
+./build/example "$arg" | ./src/plot.py
