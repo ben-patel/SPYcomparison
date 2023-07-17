@@ -34,3 +34,4 @@ e.g.
 ```
 CompareToSPY NVDA
 ```
+![Example Pic](image.png)
